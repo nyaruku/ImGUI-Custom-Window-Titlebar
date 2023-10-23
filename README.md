@@ -2,6 +2,8 @@
 
 Custom Window Titlebar with ImGui
 (Windows only) as WinAPI is used for that, should work with any render backend (only tested with Dx9)
+Should work with Windows Vista/7/8/10
+(Windows 11 not tested)
 
 Preview:
 
