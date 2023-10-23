@@ -1,5 +1,4 @@
 # ImGUI-Custom-Window-Titlebar
 
 Preview:
-https://github-production-user-asset-6210df.s3.amazonaws.com/38096703/277203431-1c330bad-23ba-417a-9043-30857859c18e.mp4
-
+https://cdn.discordapp.com/attachments/1156140450193879050/1165811356151320626/2023-10-23_03-36-52.mp4
